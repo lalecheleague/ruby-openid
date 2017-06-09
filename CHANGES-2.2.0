@@ -1,0 +1,4 @@
+Changes in ruby-openid 2.2.0
+
+* enable the local app consumer to pass the xri proxy resolver to 
+	  OpenID::Yadis::XRI::ProxyResolver
